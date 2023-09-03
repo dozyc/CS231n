@@ -31,5 +31,5 @@ scipy
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six
-tornado==4.3
+tornado==6.3.3
 wsgiref==0.1.2
